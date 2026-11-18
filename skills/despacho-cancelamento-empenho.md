@@ -1,8 +1,6 @@
 Nome: cancelar empenho
-Atalho:/cancelar-empenho
-
-Quando usar
-Use quando o usuário pedir despacho de cancelamento de empenho por inexecução contratual a partir de um CSV anexado com processos, empenhos, fornecedores e documentos SEI.
+<br>Atalho:/cancelar-empenho
+<br>Quando usar: Use quando o usuário pedir despacho de cancelamento de empenho por inexecução contratual a partir de um CSV anexado com processos, empenhos, fornecedores e documentos SEI.
 
 # Despacho: Cancelamento de empenho por inexecução contratual
 
