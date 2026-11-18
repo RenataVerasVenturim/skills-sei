@@ -10,13 +10,9 @@ um despacho usando o modelo padrão abaixo, substituindo as variáveis
 pelos valores das colunas correspondentes.
 
 ## Dados fixos (não consultar, não perguntar)
-- Tipo de documento: SEMPRE "Despacho". NÃO consulte a lista de tipos
-  de documento.
-- Nome do arquivo / título do documento: SEMPRE "CANCELAMENTO EMPENHO",
-  exatamente nessa grafia, em todos os processos.
-- NÃO leia a skill "redacao-oficial" nem outras skills. O texto do
-  despacho é fixo e está nesta skill.
-- Não reescreva nem "melhore" a redação do modelo.
+- Tipo de documento: "Despacho"
+- Nome do arquivo / título do documento: "CANCELAMENTO EMPENHO",
+- Siga a skill redacao-oficial.
 - Leia o CSV uma única vez e processe todas as linhas em sequência.
 
 ## Passo a passo
